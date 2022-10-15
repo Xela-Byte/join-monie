@@ -41,7 +41,7 @@ export const Navbar = () => {
                 </a>
               </li>
               <li>
-                <a href="https://join-monie.vercel.app/trust-and-safety">
+                <a href="https://docs.google.com/document/d/14XamWgYw4Np851EdITLUfqqBDhgxRiTeITkRENtQK-o/edit">
                   Trust and Safety
                 </a>
               </li>
@@ -84,7 +84,7 @@ export const Navbar = () => {
               </a>
             </li>
             <li>
-              <a href="https://join-monie.vercel.app/trust-and-safety">
+              <a href="https://docs.google.com/document/d/14XamWgYw4Np851EdITLUfqqBDhgxRiTeITkRENtQK-o/edit">
                 Trust and Safety
               </a>
             </li>
