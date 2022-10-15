@@ -13,7 +13,7 @@ export const Hero = () => {
   }, []);
   return (
     <>
-      <div className="bg-[url(./images/Hero.svg)] home-image font-Poppins_regular space-y-4 text-white bg-cover px-10 text-center lg:bg-cov bg-no-repeat w-full h-[100vh] lg:h-[80vh] flex flex-col justify-center items-center">
+      <div className="bg-[url(/images/Hero.svg)] home-image font-Poppins_regular space-y-4 text-white bg-cover px-10 text-center lg:bg-cov bg-no-repeat w-full h-[100vh] lg:h-[80vh] flex flex-col justify-center items-center">
         <h1
           data-aos="slide-left"
           className="lg:text-4xl text-2xl text-center md:w-[628px] font-Poppins_semibold"
